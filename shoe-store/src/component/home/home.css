@@ -1,0 +1,60 @@
+.home_container{
+    margin-top: 3.5rem;
+}
+.section_title{
+    margin-top: 1rem ;
+    text-align: center;
+    text-transform: capitalize;
+}
+.shope_products{
+    padding: 5px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(170px, auto));
+    gap: 0.5rem;
+}
+.card{
+    position: relative;
+}
+.card_body{
+    text-align: center;
+}
+.cart_icon{
+    font-size: 25PX;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: rgb(202, 198, 198);
+    padding: 3px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.cart_icon:hover{
+    padding: 2px;
+    background-color: rgb(41, 39, 39);
+    color: #fff;
+}
+.showMore_btn{
+    position: absolute;
+    right: 43%;
+    margin-top: 2rem;
+}
+.footer{
+    margin-top: 6rem;
+    height: 300px;
+    width: 100%;
+    background: rgb(58, 122, 122);
+}
+.social_icons{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+.social_icons a{
+    margin-top: 4rem;
+    font-size: 30px;
+    padding: 10px;
+    color: rgb(140, 53, 180);
+}
+.social_icons a:hover{
+    color: #fff;
+}

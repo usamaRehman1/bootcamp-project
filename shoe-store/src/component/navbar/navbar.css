@@ -1,0 +1,34 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.app-title{
+    width: 40%;
+}
+.tab{
+    text-decoration: none;
+    color: rgb(23, 100, 100);
+}
+.tab::after{
+    content: "";
+    width: 0;
+    height: 3px;
+    background-color: rgb(140, 53, 180);
+    margin: auto;
+    display: block;
+}
+.tab:hover::after{
+    width:100%;
+    transition: width 0.3s linear;
+}
+.tab:hover{
+    color: rgb(140, 53, 180);
+}
+.active{
+    text-decoration: none;
+    color: rgb(140, 53, 180);
+    border-bottom: 3px solid rgb(140, 53, 180);
+}
+.active:hover{
+    color: rgb(140, 53, 180);
+}

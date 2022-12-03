@@ -1,0 +1,36 @@
+.cart_container{
+    margin-top: 4rem;
+}
+.cart_box{
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 20px;
+    border-bottom:1px solid rgb(216, 212, 212) ;
+    border-radius: 4px;
+}
+.cart_box_img{
+    width: 33%;
+}
+.cart_box_detail{
+    width: 33%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+.cart_box_delete{
+    font-size: 30px;
+    color: red;
+    position: absolute;
+    right: 20%;
+    margin-top: 5rem;
+    cursor: pointer;
+}
+.cart_box_delete:hover{
+    font-size: 27px;
+}
+.cart_total{
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+
+}

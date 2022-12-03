@@ -1,0 +1,77 @@
+{
+    "air-jordan-3-valor-blue": {
+        "name":"VALOR BLUE",
+        "img" :"product_Image/shoe2.jpg",
+        "prise":"20,000"
+    },
+    "jordan-mars-270--londan":{
+        "name":"JORDAN MARS",
+        "img" : "product_Image/shoe3.jpg",
+        "prise":"5,000"
+    },
+    "air-jordan-1-zoom-racer-blue":{
+        "name":"RACER BLUE",
+        "img" : "product_Image/shoe4.jpg",
+        "prise":"15,000"
+    },
+    "air-jordan-2-zoom-racer-blue":{
+        "name":"NIKE BLUE",
+        "img" : "product_Image/shoe5.jpg",
+        "prise":"17,000"
+    },
+    "air-jordan-3-zoom-racer-blue":{
+        "name":"LOUIS VITAN",
+        "img" : "product_Image/shoe6.jpg",
+        "prise":"8,000"
+    },
+    "air-jordan-4-zoom-racer-blue":{
+        "name":"RACER BLUE",
+        "img" : "product_Image/shoe7.jpg",
+        "prise":"18,000"
+    },
+    "air-jordan-5-zoom-racer-blue":{
+        "name":"RACER BLUE",
+        "img" : "product_Image/shoe8.jpg",
+        "prise":"9,000"
+    },
+    "air-jordan-6-zoom-racer-blue":{
+        "name":"RACER BLUE",
+        "img" : "product_Image/shoe9.jpg",
+        "prise":"20,000"
+    },
+    "air-jordan-7-zoom-racer-blue":{
+        "name":"RACER BLUE",
+        "img" : "product_Image/shoe10.jpg",
+        "prise":"21,000"
+    },
+    "air-jordan-8-zoom-racer-blue":{
+        "name":"RACER BLUE",
+        "img" : "product_Image/shoe11.jpg",
+        "prise":"19,000"
+    },
+    "air-jordan-9-zoom-racer-blue":{
+        "name":"RACER BLUE",
+        "img" : "product_Image/shoe12.jpg",
+        "prise":"21,000"
+    },
+    "air-jordan-10-zoom-racer-blue":{
+        "name":"RACER BLUE",
+        "img" : "product_Image/shoe13.jpg",
+        "prise":"17,000"
+    },
+    "air-jordan-11-zoom-racer-blue":{
+        "name":"RACER BLUE",
+        "img" : "product_Image/shoe14.jpg",
+        "prise":"33,000"
+    },
+    "air-jordan-12-zoom-racer-blue":{
+        "name":"RACER BLUE",
+        "img" : "product_Image/shoe15.jpg",
+        "prise":"33,000"
+    },
+    "air-jordan-13-zoom-racer-blue":{
+        "name":"RACER BLUE",
+        "img" : "product_Image/shoe16.jpg",
+        "prise":"33,000"
+    }
+}

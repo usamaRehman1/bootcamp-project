@@ -1,0 +1,6 @@
+.productItem_container{
+    margin-top: 4rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: inline;
+}
